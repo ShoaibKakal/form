@@ -1,2 +1,2 @@
 # form
-insert data and save in db
+insert data and save in database
